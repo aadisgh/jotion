@@ -33,7 +33,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-
+https://github.com/aadisgh/jotion.git
 ```
 
 ### Install packages
