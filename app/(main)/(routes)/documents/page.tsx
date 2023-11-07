@@ -46,7 +46,7 @@ const DocumentsPage = () => {
         Welcome to {user?.firstName}&apos;s Jotion
       </h2>
       <Button onClick={onCreate}>
-        <PlusCircle className="h-4 w-4 mr-2" />
+        <PlusCircle className="h-4 w-4 mr-2 hover:bg-yellow-500" />
         Create a note
       </Button>
     </div>
